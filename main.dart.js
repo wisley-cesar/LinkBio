@@ -19870,7 +19870,7 @@ A.a6I.prototype={
 $1(a){var s=A.cW().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/36335019a8eab588c3c2ea783c618d90505be233/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a18df97ca57a249df5d8d68cd0820600223ce262/":s)+a},
 $S:122}
 A.O8.prototype={
 c6(a){B.c.V(this.a.a.save())},
@@ -58991,7 +58991,7 @@ AI(a){$.a8e().m(0,this,a)}}
 A.RI.prototype={}
 A.Yi.prototype={}
 A.BT.prototype={
-P(a){return new A.t_(B.Cv,"Flutter Demo",A.aa3(B.a9,null,null),!1,null)}}
+P(a){return new A.t_(B.Cv,"Wisley C\xe9sar Dev",A.aa3(B.a9,null,null),!1,null)}}
 A.tb.prototype={
 ad(){return new A.I5()}}
 A.I5.prototype={
@@ -59901,9 +59901,7 @@ $1(a){var s,r,q=this.a
 if(q.ch)return
 switch(a.a.a){case 0:s=a.b
 q.sn(0,q.a.Y9(s,null,!1,s!=null,null,a.c))
-s=this.b
-if((s.a.a&30)!==0)throw A.d(A.L("VideoPlayerController already initialized"))
-s.dk(0,null)
+this.b.dk(0,null)
 q.mg()
 q.mh()
 q.i3()
